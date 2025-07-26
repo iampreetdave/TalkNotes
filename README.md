@@ -10,17 +10,6 @@ This project leverages OCR + LLM to **read**, **analyze**, and **chat** about yo
 
 ---
 
-## 👨‍👩‍👧‍👦 Meet the Team
-
-| Name              | Role                                 |
-|-------------------|--------------------------------------|
-| Krishi Ghumare    | Leadership & Backend Help            |
-| Dave Preet        | Frontend & Machine Learning          |
-| Kashmira Paregi   | UI & Streamline Connection           |
-| Krishiv Panchal   | Chatbot Creation & Research          |
-
----
-
 ## 📸 Features
 
 - 📂 Upload handwritten **PDFs or Images**
