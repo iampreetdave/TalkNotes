@@ -55,7 +55,3 @@ This project leverages OCR + LLM to **read**, **analyze**, and **chat** about yo
 
 Layout.js # Global page layout
 launch.html # Static team intro page
-
-yaml
-Copy
-Edit
